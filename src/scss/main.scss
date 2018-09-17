@@ -1,0 +1,11 @@
+$variable: red;
+$fish: salmon;
+$water: blue;
+
+body {
+    background: $variable;
+}
+
+h1{
+    color: $water;
+}
